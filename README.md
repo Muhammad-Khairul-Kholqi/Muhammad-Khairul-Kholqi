@@ -28,16 +28,3 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/kkyhrl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kkyhrl&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
