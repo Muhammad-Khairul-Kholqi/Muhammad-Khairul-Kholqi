@@ -3,14 +3,17 @@
 ###
 
 <p align="left">
-  Software Developer | Passionate Learner<br>
-  "I am a software developer with experience in programming languages such as JavaScript and PHP. 
-  Proficient in frameworks like React, Express.js, and Laravel to build efficient and scalable web applications. 
-  Always learning, always growing."
+  <strong>Software Engineer | UI/UX Designer</strong><br><br>
+  I’m a passionate <strong>Software Engineer</strong> with professional experience in designing and building web applications from frontend to backend.  
+  I have a comprehensive understanding of the software development process — from research and UI design to system integration and deployment.  
+  I enjoy turning ideas into functional, user-centric, and scalable digital products.
+  <br><br>
+  Always curious, always improving — continuously exploring new technologies to create efficient, elegant, and impactful solutions.
 </p>
 
-###
+---
 
+### Technical Skills
 <div align="left">
 
   <!-- Frontend -->
@@ -59,7 +62,7 @@
   <img width="10" />
 
   <!-- Libraries & Motion -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framermotion.svg" height="25" width="25" alt="framer motion logo" />
+  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" height="25" width="25" alt="framer motion logo" />
   <img width="10" />
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/axios.svg" height="25" width="25" alt="axios logo" />
@@ -67,3 +70,9 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" width="25" alt="figma logo" />
 </div>
+
+---
+
+### Connect with Me
+[khairulkhlqi31@gmail.com](mailto:khairulkhlqi31@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/muhammad-khairul-kholqi-9b9413326/)
