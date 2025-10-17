@@ -11,8 +11,6 @@
   Always curious, always improving — continuously exploring new technologies to create efficient, elegant, and impactful solutions.
 </p>
 
----
-
 ### Technical Skills
 <div align="left">
 
@@ -62,17 +60,9 @@
   <img width="10" />
 
   <!-- Libraries & Motion -->
-  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" height="25" width="25" alt="framer motion logo" />
-  <img width="10" />
-
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/axios.svg" height="25" width="25" alt="axios logo" />
   <img width="10" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" width="25" alt="figma logo" />
 </div>
 
----
-
-### Connect with Me
-[khairulkhlqi31@gmail.com](mailto:khairulkhlqi31@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/muhammad-khairul-kholqi-9b9413326/)
