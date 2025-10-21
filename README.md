@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  <strong>Software Engineer | UI/UX Designer</strong><br>
+  <strong>Software Engineer | UI/UX Designer</strong><br><br>
   I’m a passionate <strong>Software Engineer</strong> with professional experience in designing and building web applications from frontend to backend.  
   I have a comprehensive understanding of the software development process from research and UI design to system integration and deployment.  
   I enjoy turning ideas into functional, user-centric, and scalable digital products.
